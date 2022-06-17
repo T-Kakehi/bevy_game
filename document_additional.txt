@@ -1,0 +1,6 @@
+error: failed to run custom build command for `alsa-sys v0.3.1`
+    sudo apt install libasound2-dev
+
+error: failed to run custom build command for `libudev-sys v0.1.4`
+    sudo apt install libudev-dev
+
