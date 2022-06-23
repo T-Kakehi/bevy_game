@@ -2,7 +2,6 @@ use bevy::{prelude::*, sprite::Anchor};
 
 const WINDOW_WIDTH: f32 = 500.0;
 const WINDOW_HEIGHT: f32 = 300.0;
-
 fn main() {
     App::new()
         .insert_resource(WindowDescriptor {
